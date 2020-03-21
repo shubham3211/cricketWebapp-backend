@@ -1,4 +1,4 @@
-let express = require('expr ess');
+let express = require('express');
 const app = express();
 const Post = require('./model/posts');
 const RecentPosts = require('./model/recentPosts');
